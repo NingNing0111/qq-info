@@ -20,6 +20,8 @@
 
 ##### 3. 根据需要修改配置
 
+![config.go](https://github.com/NingNing0111/qq-info/blob/master/config/config.go)
+
 ##### 4. 运行
 
 &emsp;进入到根目录并执行
