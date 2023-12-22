@@ -20,7 +20,7 @@
 
 ##### 3. 根据需要修改配置
 
-![config.go](https://github.com/NingNing0111/qq-info/blob/master/config/config.go)
+[config.go](https://github.com/NingNing0111/qq-info/blob/master/config/config.go)
 
 ##### 4. 运行
 
